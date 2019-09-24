@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aemieraeh.sunjiawei95.com/sitemap.xml
